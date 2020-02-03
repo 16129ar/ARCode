@@ -1,2 +1,2 @@
-# ARCode
+# UIDesignCourse
 Code from Scrimba
